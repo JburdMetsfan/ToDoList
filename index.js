@@ -14,12 +14,10 @@ function App(){
     }        
   ])
 
-  return(
-    <>
+  return(<>
       {todos.map((todo, i) => 
       <div className="todo" key={i}>{todo.text}</div>)}
-    </>
-  );
+    </>);
 }
 
 ReactDOM.render(
