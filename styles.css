@@ -19,9 +19,10 @@ h1 {
 }
 
 .app {
-  background: image(https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20200714%2Fpngtree-modern-double-color-futuristic-neon-background-image_351866.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds&tbnid=v88-M_AJ_P6MCM&vet=12ahUKEwiRhqmoiaD2AhWJYjUKHZOVBgIQMygHegUIARD1AQ..i&docid=nrS8yXEy4V6zEM&w=555&h=260&q=background%20image&ved=2ahUKEwiRhqmoiaD2AhWJYjUKHZOVBgIQMygHegUIARD1AQ);
+  background-image: url(https://images.unsplash.com/photo-1531315630201-bb15abeb1653?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80);
   padding: 30px;
   height: 100vh;
+  align-content: center;
 }
 
 .todo-list{
