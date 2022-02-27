@@ -14,8 +14,8 @@ code {
 
 h1 {
   background: rgb(219, 193, 219);
-  font-size: large;
-
+  font-size: 40px;
+  align: center;
 }
 
 .app {
